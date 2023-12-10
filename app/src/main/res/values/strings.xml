@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="scroll_to_top">Scroll to top</string>
+    <string name="search_hero">Find your vacation</string>
+</resources>
